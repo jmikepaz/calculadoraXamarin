@@ -1,0 +1,32 @@
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.deps.json
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.dll
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\ref\Ejercicio_1_1.dll
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.pdb
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.csproj.AssemblyReference.cache
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Resultado.xaml.g.cs
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.AssemblyInfoInputs.cache
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.AssemblyInfo.cs
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.csproj.CoreCompileInputs.cache
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.dll
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\ref\Ejercicio_1_1.dll
+C:\Programacion Movil 2\Primer Parcial\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.pdb
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.deps.json
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.dll
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\ref\Ejercicio_1_1.dll
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\bin\Debug\netstandard2.0\Ejercicio_1_1.pdb
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Resultado.xaml.g.cs
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.AssemblyInfo.cs
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.dll
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\ref\Ejercicio_1_1.dll
+C:\Users\migue\Downloads\Ejercicio_1_1\Ejercicio_1_1\Ejercicio_1_1\obj\Debug\netstandard2.0\Ejercicio_1_1.pdb
