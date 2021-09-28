@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.Android\\Ejercicio_1_1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1.Android\\Ejercicio_1_1.Android.csproj",
       "projectName": "Ejercicio_1_1.Android",
-      "projectPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.Android\\Ejercicio_1_1.Android.csproj",
+      "projectPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1.Android\\Ejercicio_1_1.Android.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.Android\\obj\\",
+      "outputPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj": {
-              "projectPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj"
+            "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj": {
+              "projectPath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj"
             }
           }
         }

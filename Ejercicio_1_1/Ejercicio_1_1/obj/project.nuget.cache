@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "utZiqgbAeUA04ioTvysDJxBDACFKQtV5s+/LpRAlJDcuPxgLCmHHpu6jHXZqyoPreiXoGtE9Ncq5M1E06eySTA==",
+  "dgSpecHash": "ORpwuFas5+d3kxXKnUPINvZ93jaSQYnG/hnnbn5/CFPDjcUg8kSN26/OBi7eLupugByOVrLQ4oc5W8XiRrw56A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj",
+  "projectFilePath": "C:\\Users\\migue\\Downloads\\Ejercicio_1_1\\calculadoraXamarin\\Ejercicio_1_1\\Ejercicio_1_1\\Ejercicio_1_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
